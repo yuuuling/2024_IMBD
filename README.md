@@ -1,5 +1,6 @@
 # 2024_IMBD
 [網站2024全國智慧製造大數據分析競賽](https://imbd2024.thu.edu.tw/)
+進入決賽
 
 ![前處理](https://hackmd.io/_uploads/r1UJwyErel.png)
 ![前處理2](https://hackmd.io/_uploads/SyIyvJVSge.png)
